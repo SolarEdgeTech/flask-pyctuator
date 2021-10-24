@@ -6,7 +6,7 @@ authors = [ "Luke Skywalker <Luke@starwars.com>" ]
 
 [tool.poetry.dependencies]
 python = "^3.7"
-flask-pyctuator = "^0.1.0"
+flask-pyctuator = "^0.1.1"
 flask = "^1.1"
 psutil = { version = "^5.6" }
 
