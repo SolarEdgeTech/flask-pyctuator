@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "flask-pyctuator-example"
+version = "0.1.0"
+description = "Demonstrate using flask-pyctuator"
+authors = [ "Luke Skywalker <Luke@starwars.com>" ]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+flask-pyctuator = "^0.1.0"
+flask = "^1.1"
+psutil = { version = "^5.6" }
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+

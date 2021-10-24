@@ -5,7 +5,7 @@ description = "Flask Extension for using Pyctuator to enable Spring Boot Admin (
 authors = ["michael.yak <michael.yakobi@solaredge.com>"]
 readme = "README.md"
 homepage = "https://github.com/SolarEdgeTech/flask-pyctuator"
-repository = "https://github.com/SolarEdgeTech/flasl-pyctuator"
+repository = "https://github.com/SolarEdgeTech/flask-pyctuator"
 keywords = ["spring boot admin", "actuator", "pyctuator", "flask"]
 
 classifiers = [
