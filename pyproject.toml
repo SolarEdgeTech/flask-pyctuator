@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "flask-pyctuator"
-version = "0.1.0"
+version = "0.1.1"
 description = "Flask Extension for using Pyctuator to enable Spring Boot Admin (SBA) to monitor the application, see https://github.com/SolarEdgeTech/pyctuator"
 authors = ["michael.yak <michael.yakobi@solaredge.com>"]
 readme = "README.md"
