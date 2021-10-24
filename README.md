@@ -1,5 +1,5 @@
 [![PyPI](https://img.shields.io/pypi/v/flask-pyctuator?color=green&style=plastic)](https://pypi.org/project/flask-pyctuator/)
-[![build](https://github.com/SolarEdgeTech/flasl-pyctuator/workflows/build/badge.svg)](https://github.com/SolarEdgeTech/flask-pyctuator/)
+[![build](https://github.com/SolarEdgeTech/flask-pyctuator/workflows/build/badge.svg)](https://github.com/SolarEdgeTech/flask-pyctuator/)
 
 # Flask Pyctuator Extension
 A [Flask extension](https://flask.palletsprojects.com/en/2.0.x/extensions/) that uses [Pyctuator](https://github.com/SolarEdgeTech/pyctuator) to enable [Spring Boot Admin](https://github.com/codecentric/spring-boot-admin) (SBA) to monitor health, configuration, log-file and resource-usage of a Flask application.
@@ -34,3 +34,5 @@ Please see [Pyctuator](https://github.com/SolarEdgeTech/pyctuator) for the compl
    
    app.run(debug=False, port=5000, host="0.0.0.0")
    ```
+
+See the complete example and project file in the `example` folder.

@@ -231,7 +231,7 @@ fabric.properties
 
 .metadata
 bin/
-tmp/
+example/
 *.tmp
 *.bak
 *.swp
